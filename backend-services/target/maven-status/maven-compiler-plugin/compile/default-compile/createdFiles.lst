@@ -1,0 +1,6 @@
+com\example\backend_services\service\WebScraperService.class
+com\example\backend_services\util\CSVLogger.class
+com\example\backend_services\AnalysisResponse.class
+com\example\backend_services\BackendServicesApplication.class
+com\example\backend_services\util\AnalyzeController.class
+com\example\backend_services\util\GCPStorageService.class
