@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# Logs and CSVs
+logs/
+*.log
+*.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive credentials
+src/main/resources/gcp-key.json
